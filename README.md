@@ -22,4 +22,4 @@ swift run
 
 ## Auteurs
 
-**Adrien Gillmann** - *Maintainer* - [Gitlab](https://gitlab.com/Agillmann)
+**Mickael Chekroun (algo) & Adrien Gillman (kitura server)** - *Maintainer* - [Gitlab](https://gitlab.com/Agillmann)
